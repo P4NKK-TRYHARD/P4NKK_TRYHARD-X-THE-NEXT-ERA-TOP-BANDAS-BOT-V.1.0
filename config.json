@@ -1,0 +1,29 @@
+{
+
+    "token": "",
+    "botId": "",
+    "prefix": "!:",
+
+    "status": "STATUS QUE TENDRÁ EL BOT",
+
+    "rolstaff": "ID DEL ROL DE STAFF",
+        
+    "ids_categorias": {
+        "soporte": "ID DE LA CATEGORÍA DE SOPORTE",
+        "compras": "ID DE LA CATEGORÍA DE COMPRAS",
+        "server_boost": "ID DE LA CATEGORÍA DE BOOSTS",
+        "id_voz": "ID DE CATEGORÍA DE TICKETS DE VOZ"
+    },
+
+    "mensaje_transcript": "UN MENSAJE QUE SALDRÁ CUANDO SE HAGA UN TRANSCRIPT",
+
+    "roles": {
+        "rol1": "ID DEL ROL DEL WARN 1",
+        "rol2": "ID DEL ROL DEL WARN 2",
+        "rol3": "ID DEL ROL DEL WARN 3"
+    },
+
+    "canal_bans": "CANAL DONDE SE MANDARÁN LOS BANS",
+    "canal_warns": "CANAL DONDE SE MANDARÁN LOS WARNS"
+
+}

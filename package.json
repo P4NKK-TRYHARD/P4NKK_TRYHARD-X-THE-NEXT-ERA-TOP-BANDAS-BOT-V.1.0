@@ -1,0 +1,27 @@
+{
+  "name": "P4NKK_TRYHARD-TOP-BANDAS-BOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "axios": "^1.2.6",
+    "canvas": "^2.8.0",
+    "discord-api-types": "^0.37.30",
+    "discord-html-transcripts": "^2.6.0",
+    "discord.js": "^13.8.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fivem": "^2.1.8",
+    "fs": "^0.0.1-security",
+    "megadb": "^3.4.0",
+    "mongoose": "^6.5.2"
+  }
+}
